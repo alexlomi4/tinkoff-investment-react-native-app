@@ -1,0 +1,11 @@
+{
+  "login": {
+    "pleaseLogin": "Please log in",
+    "token": "token",
+    "logIn": "Log in"
+  },
+  "home": {
+    "stocks": "Stocks",
+    "allAccounts": "All accounts"
+  }
+}
